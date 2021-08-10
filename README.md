@@ -22,8 +22,10 @@ Descargar las librerías de blynk
 
 >Descargar Librerias de Blynk https://github.com/Ghost68b/Proyecto-de-domotica-esp8266/blob/485fcd96ef82e9ade03b4356ee9205a862dea1a3/Blynk_Release_v0.6.1.zip
 
-En Arduino descomprimes y las instalas 1 x 1
-
+En Arduino descomprimes
+<p align="center"><img src="https://github.com/Ghost68b/Proyecto-de-domotica-esp8266/blob/06eb36730d019aa394af7944372bc838de4ba62d/Imagenes/gestordetarjetas2.png"/></p>
 /Herramientas y gestor de placas y selecciona la placa (NodeMCU 1.0) también el puerto en donde se encuentra instalada/
+<p align="center"><img src="https://github.com/Ghost68b/Proyecto-de-domotica-esp8266/blob/06eb36730d019aa394af7944372bc838de4ba62d/Imagenes/gestordetarjetas2.png"/></p>
+<p align="center"><img src="https://github.com/Ghost68b/Proyecto-de-domotica-esp8266/blob/06eb36730d019aa394af7944372bc838de4ba62d/Imagenes/gestordetarjetas2.png"/></p>
 /Recomendación instala el id de Arduino y no descargues el portable ya que tendrás problemas al cargar el código a la placa/
 
