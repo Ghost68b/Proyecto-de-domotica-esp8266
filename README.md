@@ -1,10 +1,13 @@
 # Primeros pasos para esp8266 en arduino 🚀
 
 Descargar blynk en tu dispositivo y crear una cuenta
+>Descargar blynk https://play.google.com/store/apps/details?id=cc.blynk&hl=es_US&gl=US
 
 Crea un proyecto y genera AUTH TOKENS QUE SE TE ENVIARA A TU CORREO COPELO Y REMPLASA POR EL QUE ES EN AUTH*/
 
 ## Pasos dentro del id de Arduino
+
+>Descargar Arduino https://downloads.arduino.cc/arduino-1.8.15-windows.exe
 
 ```Archivos/preferencia```pegar la url en gestor de url adicionales```https://arduino.esp8266.com/stable/package_esp8266com_index.json```
 
@@ -13,13 +16,13 @@ Crea un proyecto y genera AUTH TOKENS QUE SE TE ENVIARA A TU CORREO COPELO Y REM
 desca
 Herramientas/Gestor de tarjetas // descargar esp8266 e instalarlo
 
+## Librerias
+Descargar las librerías de blynk
 
-/Descargar las librerías de blynk e instalarlas en Arduino en Programa incluir librerías las descomprimes y las instalas 1 x 1/
+>Descargar Librerias de Blynk https://github.com/Ghost68b/Proyecto-de-domotica-esp8266/blob/485fcd96ef82e9ade03b4356ee9205a862dea1a3/Blynk_Release_v0.6.1.zip
+
+En Arduino descomprimes y las instalas 1 x 1
+
 /Herramientas y gestor de placas y selecciona la placa (NodeMCU 1.0) también el puerto en donde se encuentra instalada/
 /Recomendación instala el id de Arduino y no descargues el portable ya que tendrás problemas al cargar el código a la placa/
-
-
- http://github.com - automatic!
-[GitHub](http://github.com)
-
 
