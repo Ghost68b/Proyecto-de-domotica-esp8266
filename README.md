@@ -25,3 +25,4 @@ https://raw.githubusercontent.com/Ghost68b/Proyecto-de-domotica-esp8266/master/P
 
  <p align="center"><img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p> 
 
+- stable release version: ![version](https://img.shields.io/badge/version-1.2.3-blue)
