@@ -1,27 +1,19 @@
 # Primeros pasos para esp8266 en arduino 🚀
 
-_Descargar blynk en tu dispositivo y crear una cuenta_
+Descargar blynk en tu dispositivo y crear una cuenta
 
 Crea un proyecto y genera AUTH TOKENS QUE SE TE ENVIARA A TU CORREO COPELO Y REMPLASA POR EL QUE ES EN AUTH*/
-/*Pasos dentro del id de arduino*/
-```
+
+/Pasos dentro del id de Arduino/
+
 Archivos/ preferencia
-```
+// pegar la url en gestor de url adicionales "https://arduino.esp8266.com/stable/package_esp8266com_index.json" */
 
+/* Herramientas/Gestor de tarjetas // descargar esp8266 e instalarlo */
+/Descargar las librerías de blynk e instalarlas en Arduino en Programa incluir librerías las descomprimes y las instalas 1 x 1/
+/Herramientas y gestor de placas y selecciona la placa (NodeMCU 1.0) también el puerto en donde se encuentra instalada/
+/Recomendación instala el id de Arduino y no descargues el portable ya que tendrás problemas al cargar el código a la placa/
 
-https://raw.githubusercontent.com/Ghost68b/Proyecto-de-domotica-esp8266/master/Proyecto-de-domotica-esp8266/prue.png
-
-(https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
-
-// pegar la url en gestor de urls adicionales "https://arduino.esp8266.com/stable/package_esp8266com_index.json" */
-/* Herramientas/Gestor de tarjetas // descargar esp8266 e instalarlo   */
-/*Descargar las librerias de blynk e instalarlas en arduino en Programa icluir librerias las descomprimes y las instalas 1 x 1*/
-/*Herramientas y getor de placas y selecciona la placa  (NodeMCU 1.0) tambien el puerto en donde se encuentra instalada*/
-/*Recomendacion instala el id de arduino y no descarges el portable ya que tendras problemas al cargar el codigo a la placa*/
-
-![screen shot 2016-01-19 at 1 49 22 pm 2]
-
-()
 
  <p align="center"><img src="https://github.com/Ghost68b/Proyecto-de-domotica-esp8266/blob/2806db5af1f970e5861bd315bad3a22c755558d0/prue.png"/></p> 
 
