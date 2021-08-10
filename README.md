@@ -19,5 +19,6 @@ https://raw.githubusercontent.com/Ghost68b/Proyecto-de-domotica-esp8266/master/P
 /*Herramientas y getor de placas y selecciona la placa  (NodeMCU 1.0) tambien el puerto en donde se encuentra instalada*/
 /*Recomendacion instala el id de arduino y no descarges el portable ya que tendras problemas al cargar el codigo a la placa*/
 
-![screen shot 2016-01-19 at 1 49 22 pm 2 ]
+![screen shot 2016-01-19 at 1 49 22 pm 2]
+
 (https://github.com/Ghost68b/Proyecto-de-domotica-esp8266/blob/2806db5af1f970e5861bd315bad3a22c755558d0/prue.png)
