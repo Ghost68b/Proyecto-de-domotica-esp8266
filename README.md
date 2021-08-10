@@ -23,5 +23,5 @@ https://raw.githubusercontent.com/Ghost68b/Proyecto-de-domotica-esp8266/master/P
 
 (https://github.com/Ghost68b/Proyecto-de-domotica-esp8266/blob/2806db5af1f970e5861bd315bad3a22c755558d0/prue.png)
 
- [code.iadb.org](https://code.iadb.org)*
+ <p align="center"><img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p> 
 
