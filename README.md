@@ -21,8 +21,8 @@ https://raw.githubusercontent.com/Ghost68b/Proyecto-de-domotica-esp8266/master/P
 
 ![screen shot 2016-01-19 at 1 49 22 pm 2]
 
-(https://github.com/Ghost68b/Proyecto-de-domotica-esp8266/blob/2806db5af1f970e5861bd315bad3a22c755558d0/prue.png)
+()
 
- <p align="center"><img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p> 
+ <p align="center"><img src="https://github.com/Ghost68b/Proyecto-de-domotica-esp8266/blob/2806db5af1f970e5861bd315bad3a22c755558d0/prue.png"/></p> 
 
-- stable release version: ![version](https://img.shields.io/badge/version-1.2.3-blue)
+
