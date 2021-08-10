@@ -1,5 +1,6 @@
-### Descargar blynk en tu dispositivo y crear una cuenta
-# Crea un proyecto y genera AUTH TOKENS QUE SE TE ENVIARA A TU CORREO COPELO Y REMPLASA POR EL QUE ES EN AUTH*/
+#Primeros pasos para esp8266 en arduino
+_ Descargar blynk en tu dispositivo y crear una cuenta
+Crea un proyecto y genera AUTH TOKENS QUE SE TE ENVIARA A TU CORREO COPELO Y REMPLASA POR EL QUE ES EN AUTH*/
 /*Pasos dentro del id de arduino*/
 /* Archivos/ preferencia // pegar la url en gestor de urls adicionales "https://arduino.esp8266.com/stable/package_esp8266com_index.json" */
 /* Herramientas/Gestor de tarjetas // descargar esp8266 e instalarlo   */
