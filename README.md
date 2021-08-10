@@ -9,7 +9,7 @@ Archivos/ preferencia
 ```
 
 
-https://raw.githubusercontent.com/ Ghost68b/Proyecto-de-domotica-esp8266/master/Proyecto-de-domotica-esp8266/prue.png
+https://raw.githubusercontent.com/Ghost68b/Proyecto-de-domotica-esp8266/master/Proyecto-de-domotica-esp8266/prue.png
 
 
 // pegar la url en gestor de urls adicionales "https://arduino.esp8266.com/stable/package_esp8266com_index.json" */
