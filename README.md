@@ -15,6 +15,6 @@ Archivos/ preferencia
 /Recomendación instala el id de Arduino y no descargues el portable ya que tendrás problemas al cargar el código a la placa/
 
 
- <p align="center"><img src="https://github.com/Ghost68b/Proyecto-de-domotica-esp8266/blob/589a44bd6e3f32bf9433b06f679ca1773b011f30/Imagenes/Agregar%20url1.png"/></p> 
+ <p align="center"><img src="https://github.com/Ghost68b/Proyecto-de-domotica-esp8266/blob/589a44bd6e3f32bf9433b06f679ca1773b011f30/Imagenes/Agregar%20url.png"/></p> 
 
 
