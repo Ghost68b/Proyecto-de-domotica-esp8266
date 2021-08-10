@@ -7,6 +7,11 @@ Crea un proyecto y genera AUTH TOKENS QUE SE TE ENVIARA A TU CORREO COPELO Y REM
 ```
 Archivos/ preferencia
 ```
+
+
+https://raw.githubusercontent.com/ Ghost68b/Proyecto-de-domotica-esp8266/master/Proyecto-de-domotica-esp8266/prue.png
+
+
 // pegar la url en gestor de urls adicionales "https://arduino.esp8266.com/stable/package_esp8266com_index.json" */
 /* Herramientas/Gestor de tarjetas // descargar esp8266 e instalarlo   */
 /*Descargar las librerias de blynk e instalarlas en arduino en Programa icluir librerias las descomprimes y las instalas 1 x 1*/
