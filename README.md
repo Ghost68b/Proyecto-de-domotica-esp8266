@@ -13,9 +13,10 @@ Crea un proyecto y genera AUTH TOKENS QUE SE TE ENVIARA A TU CORREO COPELO Y REM
 
 <p align="center"><img src="https://github.com/Ghost68b/Proyecto-de-domotica-esp8266/blob/7d35a34348e3bae0d8403c4d7281594489500574/Imagenes/Agregar%20url1.png"/></p> 
 
-desca
-Herramientas/Gestor de tarjetas // descargar esp8266 e instalarlo
-
+Ingresas a Herramientas/Gestor de tarjetas  
+<p align="center"><img src="https://github.com/Ghost68b/Proyecto-de-domotica-esp8266/blob/7d35a34348e3bae0d8403c4d7281594489500574/Imagenes/Agregar%20url1.png"/></p>
+Descargar esp8266 e instalarlo
+<p align="center"><img src="https://github.com/Ghost68b/Proyecto-de-domotica-esp8266/blob/7d35a34348e3bae0d8403c4d7281594489500574/Imagenes/Agregar%20url1.png"/></p>
 ## Librerias
 Descargar las librerías de blynk
 
