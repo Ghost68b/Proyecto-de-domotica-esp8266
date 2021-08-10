@@ -11,6 +11,7 @@ Archivos/ preferencia
 
 https://raw.githubusercontent.com/Ghost68b/Proyecto-de-domotica-esp8266/master/Proyecto-de-domotica-esp8266/prue.png
 
+https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png
 
 // pegar la url en gestor de urls adicionales "https://arduino.esp8266.com/stable/package_esp8266com_index.json" */
 /* Herramientas/Gestor de tarjetas // descargar esp8266 e instalarlo   */
